@@ -13,9 +13,9 @@ This project involves the implementation of a SIRD (Susceptible, Infected, Recov
 ### Installation.
 
 1. Clone the project:
-   ```
-   git clone https://github.com/yourusername/sird-model-simulation.git
-   ```
+```
+git clone https://github.com/yourusername/sird-model-simulation.git
+```
 3. Start an R session, and navigate to the project directory:
  ```
 setwd("/path/to/sird-model-simulation")

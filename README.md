@@ -6,4 +6,16 @@ This project involves the implementation of a SIRD (Susceptible, Infected, Recov
 
 ### The project consists of
 - src/: Contains the R script files for the SIRD model.
--
+- data/: A folder of data files that can be used to store the results of model runs.
+- docs/: Contains project documentation and how-to's.
+- README.md: A file that describes the project overview, how to install it, and how to use it.
+
+### Installation.
+
+1. Clone the project:
+   ```
+   git clone https://github.com/yourusername/sird-model-simulation.git
+   ```
+3. Start an R session, and navigate to the project directory:
+4. Install the required packages (if they are not already installed):
+

@@ -1,5 +1,8 @@
 # What-if-the-Black-Death-manifested-as-a-modern-day-pandemic-
 What if the Black Death manifested as a modern-day pandemic? 
+
+![스크린샷 2024-04-12 222553](https://github.com/dldbfla/What-if-the-Black-Death-manifested-as-a-modern-day-pandemic-/assets/89433437/53a1d02f-f77a-4ee8-934e-430d8478e408)
+
 ### SIRD Model Simulation Project
 This project involves the implementation of a SIRD (Susceptible, Infected, Recovered, Deceased) model to model the spread of an infectious disease. The simulation can help predict the effectiveness of public health policies by visualizing changes in infection rates before and after policy implementation.
 

@@ -26,3 +26,7 @@ if(!require(deSolve)) install.packages("deSolve")
 if(!require(ggplot2)) install.packages("ggplot2")
 if(!require(reshape2)) install.packages("reshape2") 
 ```
+
+### Defining the SIRD model
+The beta_function function adjusts the infection rate(beta) over time. It returns different beta values before and after a policy is implemented, reflecting the impact of the policy in the model.
+Beta, gamma, and murepresent infection rate, recovery rate, and mortality rate, respectively. They are used to define the equations of the SIRD model within the sird_model_with_policy function. This function calculates the change in each population (Susceptible, Infected, Recovered, and Deceased).

@@ -17,5 +17,12 @@ This project involves the implementation of a SIRD (Susceptible, Infected, Recov
    git clone https://github.com/yourusername/sird-model-simulation.git
    ```
 3. Start an R session, and navigate to the project directory:
-4. Install the required packages (if they are not already installed):
-
+ ```
+setwd("/path/to/sird-model-simulation")
+```
+5. Install the required packages (if they are not already installed):
+```
+if(!require(deSolve)) install.packages("deSolve")
+if(!require(ggplot2)) install.packages("ggplot2")
+if(!require(reshape2)) install.packages("reshape2") 
+```

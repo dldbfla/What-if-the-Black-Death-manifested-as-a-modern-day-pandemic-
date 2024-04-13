@@ -17,7 +17,7 @@ This project involves the implementation of a SIRD (Susceptible, Infected, Recov
 
 1. Clone the project:
 ```
-git clone https://github.com/yourusername/sird-model-simulation.git](https://github.com/dldbfla/What-if-the-Black-Death-manifested-as-a-modern-day-pandemic-.git
+git clone https://github.com/dldbfla/What-if-the-Black-Death-manifested-as-a-modern-day-pandemic-.git
 ```
 3. Start an R session, and navigate to the project directory:
  ```
